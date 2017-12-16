@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Ev4VMoragaPTenorio</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">EMAIL</string>
+    <string name="prompt_password">CONTRASEÑA</string>
+    <string name="action_sign_in">INGRESAR</string>
+    <string name="action_sign_in_short">INGRESAR</string>
+    <string name="error_invalid_email">CORREO INVALIDO</string>
+    <string name="error_invalid_password">CONTRASEÑA MUY CORTA</string>
+    <string name="error_incorrect_password">CONTRASEÑA INCORRECTA</string>
+    <string name="error_field_required">ESTE CAMPO ES OBLIGATORIO</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="sign_up">INGRESAR</string>
+    <string name="sign_in">REGISTRARME</string>
+    <string name="regiontxt">SELECCIONE SU UBICACION</string>
+    <string name="title_activity_maps">Map</string>
+    <!--String de Lista de visualizacion de locales -->
+    <string name="titulo1">NOMBRE DE LOCAL: </string>
+    <string name="titulo2">TELEFONO: </string>
+    <string name="titulo3">EMAIL: </string>
+    <string name="titulo4">DIRECCION: </string>
+    <string name="titulofoto">IMAGEN DE REFERENCIA: </string>
+    <string name="irAlMapa">VER EN EL MAPA</string>
+    <string name="btnvolver">VOLVER</string>
+</resources>
